@@ -201,28 +201,3 @@ DWORD PlayTeBie(void);							// 低级打怪(猎人村起点)
 DWORD GoGroup();								// 前往组队地点
 //DWORD GroupBoss();							
 
-
-
-
-struct seat {
-	char v1[50];
-	int v2;
-};
-
-//class base
-//{
-//	struct seat;
-//	//int (*func)(int, int, int);
-//};
-
-//{
-//	//base* xxx = (base*)123;
-//	//xxx->func(1, 2, 3);
-//	int v1 = 0;
-//	int v2 = 0;
-//	v1 = class1->func1(eax, edx, 0, ecx);
-//	v2 = class2->func(v1);
-//	func( (int)class1, v2);
-//
-//}
-
