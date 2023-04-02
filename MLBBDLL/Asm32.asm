@@ -552,7 +552,7 @@ ASM_TradeOK proc
 	mov ebp , 1
 	push ebp
 	push edx
-	mov eax, 50C510h
+	mov eax, 050C510h
 	call eax
 	add esp, 8
 	mov dword ptr ds:[0CBAE48h],2
