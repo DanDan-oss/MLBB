@@ -1,0 +1,2 @@
+AccountFilePath=F:\Document\VCCode\Hunter\MLBB\122.txt
+GameNamePath=D:\Game\CGoriginmood\Assets\CGHK.exe
